@@ -13,6 +13,10 @@ tools around it.
 - **[WSLC AI Agent](https://github.com/Berpiztu/wslc-ai-agent)**: a local
   agent and MCP server for Microsoft's WSLC containers, with a web dashboard,
   Windows and Android clients, and a skill for AI agents.
+- **[KeyPlus](https://github.com/Berpiztu/keyplus)**: the keys a phone's
+  keyboard lacks (Esc, Tab, Ctrl, Alt, the arrows…) for a terminal, an SSH
+  app or a web editor, as a strip above any keyboard or as Berpiztu AI
+  Keyboard, for any Android and for a headset (Galaxy XR).
 - **[security-watch](https://github.com/Berpiztu/security-watch)**: every
   library my projects use, checked every day against the known
   vulnerabilities.
