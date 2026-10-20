@@ -10,6 +10,9 @@ tools around it.
 - **[Virtus](https://github.com/Berpiztu/virtus)**: AI alignment research,
   values instead of constraints. Paper:
   [doi.org/10.5281/zenodo.21127304](https://doi.org/10.5281/zenodo.21127304).
+- **[Virtus Labs](https://github.com/Berpiztu/virtus/tree/main/labs)**:
+  reproducible experiments and benchmarks that test Virtus against real
+  models, to produce evidence, not just claims.
 - **[WSLC AI Agent](https://github.com/Berpiztu/wslc-ai-agent)**: a local
   agent and MCP server for Microsoft's WSLC containers, with a web dashboard,
   Windows and Android clients, and a skill for AI agents.
