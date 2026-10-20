@@ -26,11 +26,11 @@ tools around it.
 
 ## Background
 
-- Self-taught: writing business software since I was fifteen.
-- Joined Microsoft at 22, as its first consultant in Spain, in the early days
-  of development on Windows.
-- Built the first ERP for Windows in Spain (1994), and started in the cloud
-  in 2008.
+- Self-taught: writing business software since I was fourteen.
+- Joined Microsoft in 1992, as its first consultant in Spain, in the early
+  days of development on Windows.
+- Built Irati, the first ERP for Windows in Spain (1995), and started in the
+  cloud in 2008.
 - Founded and ran three companies.
 
 ## Now
